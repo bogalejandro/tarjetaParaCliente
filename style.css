@@ -1,0 +1,127 @@
+
+body{
+
+   background-color: #623393; 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 1.3rem;
+   overflow: hidden;
+   width: auto;
+
+}
+
+.bg-circulo1{
+
+    position: absolute;
+    }
+.bg-circulo1--top{
+
+    top: -400px;
+    left: -200px;
+
+}
+
+.bg-circulo2{
+    position: absolute;
+}
+
+.bg-circulo2{
+
+height: 800px;
+}
+.bg-circulo2--buttom{
+
+    bottom: -150px;
+    right: -300px;
+}
+
+
+
+.card{
+    position: relative;
+    top: 10vh;
+   width: 350px;
+   height: 400px;
+   background-color: aliceblue;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 20px;
+   overflow: hidden;
+
+}
+
+.cardHeader {
+    position: relative;
+    text-align: center;
+    width: 150px;
+
+}
+
+.imagenEncabezado{
+   
+position: relative;
+height: 120px;
+text-align: center;
+left: 0px;
+
+}
+
+.jairoimagen{
+    position: absolute;
+    width: 90px;
+    height: 110px;
+    border-radius: 70%;
+
+    top: 50px;  
+    left: 130px;
+    border: 2px solid #fff;
+    background: #623385;
+
+
+}
+
+
+
+.cardBody{
+    position: absolute;
+    top: 150px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+  
+}
+.cardFooter{
+    position: absolute;
+    bottom: -30px;
+    width: 100%;
+    text-align: center;
+
+
+}
+.cardStats{
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    margin: 0 0.5em;
+    width: 100px;
+    font-size: 10px;
+
+}
+.cardText{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cardtext-light{
+    position: relative;
+    top: -20px;
+font-size: 10px;
+    color: #623393;
+}
+.cardTextjairo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mapa{
+
+  
+    opacity: 20%;
+
+}
